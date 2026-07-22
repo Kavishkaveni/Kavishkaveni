@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kavishkaveni 👋</h1>
-<h3 align="center">Software Engineer — Building full-stack, multi-service platforms</h3>
+<h3 align="center">Software Engineer - Building full-stack, multi-service platforms</h3>
 
 <p align="center">
   Associate Software Engineer building production systems across mobile, backend, and cloud infrastructure.
@@ -39,13 +39,13 @@
 ### 🛠 Featured Projects
 
 **[New Event Platform](https://github.com/Kavishkaveni/CMM707CloudComputing)**
-Cloud-native multi-service event platform — 4 FastAPI microservices, PostgreSQL, ClickHouse, and a full observability + deployment pipeline. Deployed on Kubernetes with real Blue-Green deployments, GitHub Actions CI/CD, Prometheus + Grafana monitoring, and a Metabase analytics dashboard. Fully migrated across AWS and GCP.
+Cloud-native multi-service event platform - 4 FastAPI microservices, PostgreSQL, ClickHouse, and a full observability + deployment pipeline. Deployed on Kubernetes with real Blue-Green deployments, GitHub Actions CI/CD, Prometheus + Grafana monitoring, and a Metabase analytics dashboard. Fully migrated across AWS and GCP.
 
 **[Reddit NLP Analysis](https://github.com/Kavishkaveni/)**
-End-to-end NLP pipeline on ~80,000 Reddit posts — tokenizer comparison, LDA topic modelling, fine-tuned RoBERTa and BERT classifiers, GPT-Neo, and named entity recognition.
+End-to-end NLP pipeline on ~80,000 Reddit posts - tokenizer comparison, LDA topic modelling, fine-tuned RoBERTa and BERT classifiers, GPT-Neo, and named entity recognition.
 
 **Portfolio Website**
-Personal portfolio showcasing projects and experience → [Kavishkaveni.github.io](https://Kavishkaveni.github.io)
+Personal portfolio showcasing projects and experience -> [Kavishkaveni.github.io](https://Kavishkaveni.github.io)
 
 ---
 
