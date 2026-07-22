@@ -38,7 +38,7 @@
 
 ### 🛠 Featured Projects
 
-**[New Event Platform](https://github.com/Kavishkaveni/CMM707CloudComputing)**
+**[New Event Platform](https://github.com/Kavishkaveni/new-event-platform.git)**
 Cloud-native multi-service event platform - 4 FastAPI microservices, PostgreSQL, ClickHouse, and a full observability + deployment pipeline. Deployed on Kubernetes with real Blue-Green deployments, GitHub Actions CI/CD, Prometheus + Grafana monitoring, and a Metabase analytics dashboard. Fully migrated across AWS and GCP.
 
 **[Reddit NLP Analysis](https://github.com/Kavishkaveni/)**
