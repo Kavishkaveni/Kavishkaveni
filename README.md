@@ -1,66 +1,51 @@
-<h1 align="center">Hi, I'm Kavishkaveni 👋</h1>
-<h3 align="center">Software Engineer building full-stack, multi-service platforms</h3>
+<div align="center">
 
-<p align="center">
-  Associate Software Engineer building production systems across mobile, backend, and cloud infrastructure.<br/>
-  Currently pursuing an MSc in Big Data Analytics (IIT Sri Lanka, affiliated with Robert Gordon University, UK).
-</p>
+# Kavishkaveni Mahendran
 
-<br/>
+**Software Engineer** — Flutter · FastAPI · Rust · Kubernetes
 
-### What I work with
+Associate Software Engineer at QCETL, building full-stack, cloud-native systems from mobile down to infrastructure. Currently completing an MSc in Big Data Analytics (IIT Sri Lanka, affiliated with Robert Gordon University, UK).
 
-**Mobile**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+[LinkedIn](https://linkedin.com/in/kavishkaveni-mahendran-155ba6281) · [Portfolio](https://Kavishkaveni.github.io) · [Email](mailto:mahendrankavishkaveni@gmail.com)
 
-**Backend**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-
-**Frontend**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-
-**Data & Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=black)
+</div>
 
 <br/>
 
-### Featured Projects
+## Tech Stack
 
-**[FastAPI JWT Starter](https://github.com/Kavishkaveni/fastapi-jwt-starter)**
-Reusable FastAPI backend starter with JWT access/refresh tokens, role-based access control, and PostgreSQL, built as a clean template for future projects.
-
-**[New Event Platform](https://github.com/Kavishkaveni/new-event-platform)**
-Cloud-native multi-service event platform: 4 FastAPI microservices, PostgreSQL, ClickHouse, and a full observability + deployment pipeline. Deployed on Kubernetes with real Blue-Green deployments, GitHub Actions CI/CD, Prometheus + Grafana monitoring, and a Metabase analytics dashboard. Fully migrated across AWS and GCP.
-
-**[Reddit NLP Analysis](https://github.com/Kavishkaveni/reddit-nlp-analysis)**
-End-to-end NLP pipeline on ~80,000 Reddit posts: tokenizer comparison, LDA topic modelling, fine-tuned RoBERTa and BERT classifiers, GPT-Neo, and named entity recognition.
-
-**Portfolio Website**
-Personal portfolio showcasing projects and experience → [Kavishkaveni.github.io](https://Kavishkaveni.github.io)
+| Layer | Tools |
+|---|---|
+| Mobile | Flutter, Dart |
+| Backend | Python, FastAPI, Rust, Axum |
+| Frontend | Next.js, React |
+| Cloud & DevOps | AWS, GCP, Kubernetes, Docker, GitHub Actions, Prometheus, Grafana |
+| Data | PostgreSQL, ClickHouse |
+| Other | OAuth/JWT, NLP/Transformers (RoBERTa, BERT) |
 
 <br/>
 
-### GitHub Stats
+## Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kavishkaveni&show_icons=true&theme=default&hide_border=true" height="165"/>
-</p>
+| Project | Description | Stack |
+|---|---|---|
+| **[FastAPI JWT Starter](https://github.com/Kavishkaveni/fastapi-jwt-starter)** | Reusable backend starter with JWT access/refresh tokens and role-based access control | FastAPI, PostgreSQL, Docker |
+| **[New Event Platform](https://github.com/Kavishkaveni/new-event-platform)** | Cloud-native event platform: 4 microservices, real Blue-Green deployments, full CI/CD, migrated live from AWS to GCP | FastAPI, Kubernetes, ClickHouse |
+| **[Reddit NLP Analysis](https://github.com/Kavishkaveni/reddit-nlp-analysis)** | NLP pipeline on ~80,000 Reddit posts: tokenizer comparison, topic modelling, fine-tuned transformer classifiers | Python, Transformers, NLP |
+| **[Portfolio Website](https://Kavishkaveni.github.io)** | Personal portfolio showcasing projects, experience, and skills | HTML, CSS, JS |
 
 <br/>
 
-### Connect with me
+## Currently
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavishkaveni-mahendran-155ba6281)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white)](https://Kavishkaveni.github.io)
+- Building out backend and infrastructure tooling with FastAPI and Kubernetes
+- Studying Big Data Analytics at IIT Sri Lanka
+- Practicing algorithmic problem solving daily
+
+<br/>
+
+<div align="center">
+
+*Open to Software Engineer opportunities*
+
+</div>
