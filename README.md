@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hi, I'm Kavishkaveni 👋</h1>
-<h3>Software Engineer — Building full-stack, multi-service platforms</h3>
+<h3>Software Engineer Building full-stack, multi-service platforms</h3>
 
 <p>
   Associate Software Engineer building production systems across mobile, backend, and cloud infrastructure.<br/>
