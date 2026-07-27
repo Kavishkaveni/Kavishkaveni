@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Kavishkaveni 👋</h1>
-<h3 align="center">Software Engineer - Building full-stack, multi-service platforms</h3>
+<h3 align="center">Software Engineer building full-stack, multi-service platforms</h3>
 
 <p align="center">
-  Associate Software Engineer building production systems across mobile, backend, and cloud infrastructure.
+  Associate Software Engineer building production systems across mobile, backend, and cloud infrastructure.<br/>
   Currently pursuing an MSc in Big Data Analytics (IIT Sri Lanka, affiliated with Robert Gordon University, UK).
 </p>
 
----
+<br/>
 
-### 🚀 What I work with
+### What I work with
 
 **Mobile**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
@@ -34,31 +34,34 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=black)
 
----
+<br/>
 
-### 🛠 Featured Projects
+### Featured Projects
 
-**[New Event Platform](https://github.com/Kavishkaveni/new-event-platform.git)**
-Cloud-native multi-service event platform - 4 FastAPI microservices, PostgreSQL, ClickHouse, and a full observability + deployment pipeline. Deployed on Kubernetes with real Blue-Green deployments, GitHub Actions CI/CD, Prometheus + Grafana monitoring, and a Metabase analytics dashboard. Fully migrated across AWS and GCP.
+**[FastAPI JWT Starter](https://github.com/Kavishkaveni/fastapi-jwt-starter)**
+Reusable FastAPI backend starter with JWT access/refresh tokens, role-based access control, and PostgreSQL, built as a clean template for future projects.
 
-**[Reddit NLP Analysis](https://github.com/Kavishkaveni/reddit-nlp-analysis.git)**
-End-to-end NLP pipeline on ~80,000 Reddit posts - tokenizer comparison, LDA topic modelling, fine-tuned RoBERTa and BERT classifiers, GPT-Neo, and named entity recognition.
+**[New Event Platform](https://github.com/Kavishkaveni/new-event-platform)**
+Cloud-native multi-service event platform: 4 FastAPI microservices, PostgreSQL, ClickHouse, and a full observability + deployment pipeline. Deployed on Kubernetes with real Blue-Green deployments, GitHub Actions CI/CD, Prometheus + Grafana monitoring, and a Metabase analytics dashboard. Fully migrated across AWS and GCP.
+
+**[Reddit NLP Analysis](https://github.com/Kavishkaveni/reddit-nlp-analysis)**
+End-to-end NLP pipeline on ~80,000 Reddit posts: tokenizer comparison, LDA topic modelling, fine-tuned RoBERTa and BERT classifiers, GPT-Neo, and named entity recognition.
 
 **Portfolio Website**
-Personal portfolio showcasing projects and experience -> [Kavishkaveni.github.io](https://Kavishkaveni.github.io)
+Personal portfolio showcasing projects and experience → [Kavishkaveni.github.io](https://Kavishkaveni.github.io)
 
----
+<br/>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kavishkaveni&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavishkaveni&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kavishkaveni&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavishkaveni&layout=compact&theme=default&hide_border=true" height="165"/>
 </p>
 
----
+<br/>
 
-### 📫 Connect with me
+### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavishkaveni-mahendran-155ba6281)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://Kavishkaveni.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white)](https://Kavishkaveni.github.io)
