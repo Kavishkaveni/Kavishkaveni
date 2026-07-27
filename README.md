@@ -55,8 +55,7 @@ Personal portfolio showcasing projects and experience → [Kavishkaveni.github.i
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kavishkaveni&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavishkaveni&layout=compact&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kavishkaveni&show_icons=true&theme=default&hide_border=true" height="165"/>
 </p>
 
 <br/>
