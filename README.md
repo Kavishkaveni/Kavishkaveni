@@ -5,7 +5,6 @@
 
 <p>
   Associate Software Engineer building production systems across mobile, backend, and cloud infrastructure.<br/>
-  Currently pursuing an MSc in Big Data Analytics (IIT Sri Lanka, affiliated with Robert Gordon University, UK).
 </p>
 
 <a href="https://linkedin.com/in/kavishkaveni-mahendran-155ba6281"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
